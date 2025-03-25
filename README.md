@@ -4,7 +4,7 @@
 
 ## 📋 Sobre o Projeto
 
-FlexTurismos é uma landing page responsiva para uma agência de turismo fictícia, desenvolvida para demonstrar o uso eficiente do CSS Flexbox na criação de layouts modernos e adaptáveis.
+FlexTurismos é uma landing page responsiva para uma agência de turismo fictícia, desenvolvida para demonstrar o uso eficiente do CSS Flexbox na criação de layouts modernos e adaptáveis. O design foi inspirado em um modelo do Figma disponibilizado pela DIO (Digital Innovation One) como parte de seu curso de CSS Flexbox, com implementação e personalizações feitas por mim.
 
 ### 🚀 Características
 
