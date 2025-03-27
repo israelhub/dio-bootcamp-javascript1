@@ -1,7 +1,7 @@
 # Instagram Login Page - Clone da Página de Login do Instagram
 
 ## 📋 Sobre o Projeto
-Instagram Home é uma recriação da página de login do Instagram, desenvolvida para demonstrar a aplicação prática de CSS Flexbox na construção de layouts modernos e responsivos. Este projeto foi desenvolvido como parte do curso de CSS Flexbox da DIO (Digital Innovation One), com implementações e personalizações próprias para replicar a experiência visual e funcional da interface original do Instagram.
+É uma recriação da página de login do Instagram, desenvolvida para demonstrar a aplicação prática de CSS Flexbox na construção de layouts modernos e responsivos. Este projeto foi desenvolvido como parte do curso de CSS Flexbox da DIO (Digital Innovation One), com implementações e personalizações próprias para replicar a experiência visual e funcional da interface original do Instagram.
 
 ## 🚀 Características
 - Layout responsivo completo utilizando CSS Flexbox
