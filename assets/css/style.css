@@ -1,0 +1,14 @@
+*{
+    color:rgb(66, 66, 200);
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+  }
