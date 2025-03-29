@@ -21,7 +21,7 @@ function addTask(description) {
     labelTask.setAttribute("for", description); // Vincula o label ao input
     labelTask.appendChild(taskDescriptionNode); // Coloca o texto da tarefa dentro do label
 
-    taskContainer.classList.add("task"); // adiciona uma classe CSS a div
+    taskContainer.classList.add("tasks"); // adiciona uma classe CSS a div
     taskContainer.appendChild(newTask); // Adiciona o input dentro da div
     taskContainer.appendChild(labelTask); // Adiciona o label dentro da div
 
