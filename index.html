@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="instagram-wrapper">
+
+       <div class="instagram-celular">
+            <img
+            src="img/instagram-celular.png"
+            alt="Instagram Celular"
+            id="celular"
+            />
+        </div>
+
+        <div class="container-principal">
+            <div class="group">
+                <img src="img/instagram-logo.png" alt="Instagram Logo" id="logo" />
+
+                <form class="login-form">
+                    <div class="form-field">
+                    <input
+                        type="text"
+                        id="login-id"
+                        name="username"
+                        placeholder=" "
+                        required
+                    />
+                    <label for="login-id">Número do celular ou email</label>
+                    </div>
+        
+                    <div class="form-field">
+                    <input type="password" id="password" placeholder=" " required />
+                    <label for="password">Senha</label>
+                    </div>
+                </form>
+
+                <button class="btn-login">Entrar</button>
+
+                <div class="or-separator">
+                    <span class="or-line"></span>
+                    <span class="or-text">OU</span>
+                    <span class="or-line"></span>
+                </div>
+
+                <div class="login-with-facebook">
+                    <button>
+                        <img src="img/facebook-logo.png" alt="Facebook Logo"/>   
+                        Entrar com o Facebook
+                    </button>
+                </div>
+
+                <a href="#" class="forgot-password">Esqueceu a senha?</a>
+            </div>
+
+            <div class="group signup-group">
+                <p class="signup-text">Não tem uma conta? <a href="#" class="signup-link">Cadastre-se</a></p>
+            </div>
+
+            <div class="get-the-app">
+                <p class="download-text">Obtenha o aplicativo.</p>
+                <div class="download-buttons">
+                    <a href="#" class="app-store"><img src="img/app-store.png" alt="App Store" /></a>
+                    <a href="#" class="google-play"><img src="img/google-play.png" alt="Google Play" /></a>
+                </div>
+        </div>
+    </div>
+  </body>
+</html>
